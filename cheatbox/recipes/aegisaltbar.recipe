@@ -1,5 +1,5 @@
 {
   "input" : [  ],
-  "output" : { "item" : "titaniumbar", "count" : 1 },
+  "output" : { "item" : "aegisaltbar", "count" : 1 },
   "groups" : [ "cheatboxtable", "stonefurnace", "all" ]
 }
